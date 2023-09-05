@@ -1,0 +1,125 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* navbar */
+.nav_icon-1 {
+  font-size: 19px;
+  margin-left: 10px;
+  border: 0;
+  border-radius: 100%;
+  color: white;
+  background-color: #f8b547;
+  padding: 8px 12px;
+}
+
+.nav_icon-2 {
+  font-size: 17px;
+  margin-left: 10px;
+  border: 0;
+  border-radius: 100%;
+  color: white;
+  background-color: #f8b547;
+  padding: 10px 10px;
+}
+
+/* Home */
+.header {
+  min-height: 1000px;
+  background: url("../images/header-background.jpg") center center no-repeat;
+  background-size: cover;
+}
+
+.text-container {
+  margin-top: 150px;
+}
+
+.home_heading {
+  font-size: 50px;
+  color: white;
+}
+
+.home_para {
+  font-size: 17px;
+  color: white;
+  width: 70%;
+  margin: 0 auto;
+}
+
+.btn_home-1 {
+  border: 0;
+  background-color: #f8b547;
+  color: white;
+  font-size: 15px;
+  margin-top: 30px;
+}
+
+.btn_home-1:hover {
+  background-color: #f8b547;
+  color: white;
+}
+
+.btn_home-2 {
+  border: 1px solid white;
+  color: white;
+  font-size: 15px;
+  margin-top: 30px;
+}
+
+.btn_home-2:hover {
+  border: 1px solid white;
+  color: white;
+}
+
+.carousel {
+  width: 70%;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+/* Register */
+.register_heding {
+  font-size: 30px;
+}
+
+.register_btn {
+  font-size: 17px;
+  background-color: black;
+  color: white;
+}
+
+.register_btn:hover {
+  background-color: black;
+  color: white;
+}
+
+/* points */
+.num_all {
+  font-size: 17px;
+  border: 0;
+  border-radius: 100%;
+  color: white;
+  background-color: #f8b547;
+  padding: 6px 10px;
+}
+
+/* Invitation */
+.invitation-bg {
+  background: linear-gradient(to bottom right, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("../images/invitation-background.jpg") center center no-repeat;
+  background-size: cover;
+}
+
+/* footer */
+.footer_para {
+  font-size: 15px;
+  color: gray;
+}
+
+.footer-links {
+  font-size: 15px;
+}
+
+.contact_item {
+  margin-top: 20px;
+}

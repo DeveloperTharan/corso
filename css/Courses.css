@@ -1,0 +1,113 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* navbar */
+.nav_icon-1 {
+  font-size: 19px;
+  margin-left: 10px;
+  border: 0;
+  border-radius: 100%;
+  color: white;
+  background-color: #f8b547;
+  padding: 8px 12px;
+}
+
+.nav_icon-2 {
+  font-size: 17px;
+  margin-left: 10px;
+  border: 0;
+  border-radius: 100%;
+  color: white;
+  background-color: #f8b547;
+  padding: 10px 10px;
+}
+
+/* Home */
+.header {
+  min-height: 1500px;
+  background: url("../images/header-background.jpg") center center no-repeat;
+  background-size: cover;
+}
+
+.text-container {
+  margin-top: 150px;
+}
+
+.home_heading {
+  font-size: 50px;
+  color: white;
+}
+
+.home_para {
+  font-size: 17px;
+  color: white;
+  width: 70%;
+  margin: 0 auto;
+}
+
+input {
+  border: 0;
+  border-radius: 10px;
+  margin-top: 50px;
+  width: 30%;
+  height: 5vh;
+}
+
+.card:hover {
+  cursor: pointer;
+}
+
+.card-img {
+  width: 50%;
+}
+
+.card_heading {
+  font-size: 17px;
+  margin-top: 20px;
+}
+
+.card_para {
+  font-size: 13px;
+}
+
+.star {
+  color: orangered;
+}
+
+.review_count {
+  font-size: 12px;
+}
+
+.card_footer {
+  font-size: 12px;
+}
+
+.card_btn {
+  border: 0;
+  border-radius: 5px;
+  text-decoration: none;
+  background-color: blue;
+  color: white;
+  padding: 5px 20px;
+}
+
+/* subscriper */
+.subscribe {
+  margin: 100px 0;
+}
+
+/* footer */
+.footer_para {
+  font-size: 15px;
+  color: gray;
+}
+
+.footer-links {
+  font-size: 15px;
+}
+
+.contact_item {
+  margin-top: 20px;
+}
